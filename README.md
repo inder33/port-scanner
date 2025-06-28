@@ -31,7 +31,7 @@ portscan -t scanme.nmap.org -r 1-100 -o result.txt
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/inder33/portscan.git
+git clone https://github.com/inder33/port-scanner.git
 cd portscan
 chmod +x portscan
 sudo mv portscan /usr/local/bin/
