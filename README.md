@@ -32,7 +32,7 @@ portscan -t scanme.nmap.org -r 1-100 -o result.txt
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+cd portscan
 chmod +x portscan
 sudo mv portscan /usr/local/bin/
 ```
