@@ -72,6 +72,6 @@ portscan -t scanme.nmap.org -r 1-100 -o result.txt
 ## ✨ Author
 
 Made with love by **Inder**  
-[🔗 GitHub](https://github.com/inderr33) | Feel free to star ⭐ and contribute
+[🔗 GitHub](https://github.com/inder33) | Feel free to star ⭐ and contribute
 
 ---
