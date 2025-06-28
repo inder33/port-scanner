@@ -10,7 +10,6 @@ A fast and minimal command-line port scanner built in Python. Perfect for learni
 - 📊 Custom port range
 - 🧠 Banner grabbing (when available)
 - 💾 Save scan results to file
-- ⚡ Fast, clean, and works like `httpx`
 
 ---
 
