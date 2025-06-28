@@ -76,3 +76,8 @@ Made with love by **Inder**
 [🔗 GitHub](https://github.com/inder33) | Feel free to star ⭐ and contribute
 
 ---
+
+## 📝 License
+
+This project is licensed under the GNU General Public License v3.0.  
+See the [LICENSE](LICENSE) file for more details.
