@@ -32,9 +32,10 @@ portscan -t scanme.nmap.org -r 1-100 -o result.txt
 
 ```bash
 git clone https://github.com/inder33/port-scanner.git
-cd portscan
+cd port-scanner
 chmod +x portscan
 sudo mv portscan /usr/local/bin/
+
 ```
 
 ✅ Now you can run it from anywhere:
